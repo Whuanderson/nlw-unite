@@ -6,7 +6,7 @@
   </p>
 
 </h1>
-  <img alt="Pass.in" title="Pass.in" src=".github/Capa.png" /> 
+  <img alt="Pass.in" title="Pass.in" src=".github/Image.png" /> 
  <div align="center">
   <sub>O Projeto. Feito por :
     <a href="https://github.com/Whuanderson">Whuanderson Marinho</a>
